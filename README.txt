@@ -1,4 +1,3 @@
-````
 Create a very simple Android application for displaying a list of hotels. This app will be graded on code quality, not on design. We are looking for good, reusable, code that displays knowledge of Android paradigms. You may use open-source libraries to make your life easier. This project should only take a few hours to complete.
 
 The app should contain the following 3 activities:
@@ -21,4 +20,3 @@ Don't worry about what the different prices mean in the data. Just pick any of t
 3) Map view. Show the location of the hotel on a map.
 
 *note: media URLs should prepend https://media.expedia.com
-````
