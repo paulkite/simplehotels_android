@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/paulkite/simplehotels_android/master/responses
 
 This is real data and is an example of what we consume in the Expedia app. Do not ship the app with this data. Do not cache this data. Each time you want to display this data the app should download it, parse it, and then display it to the user. How you decide to do this is up to you.
 
-In each table cell display the following information at a minimum: Hotel Name, Price
+In each view holder display the following information at a minimum: Hotel Name, Price
 
 Don't worry about what the different prices mean in the data. Just pick any of them. Tapping on a hotel in the list should show a detail view (2) for the hotel.
 
